@@ -1,5 +1,5 @@
 {
-  "name": "fast-json-patch",
+  "name": "@kshramt/fast-json-patch",
   "version": "3.0.2",
   "homepage": "https://github.com/Starcounter-Jack/JSON-Patch",
   "description": "Fast implementation of JSON-Patch (RFC-6902) with duplex (observe changes) capabilities",
